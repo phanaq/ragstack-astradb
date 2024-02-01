@@ -1,8 +1,8 @@
 # pip3 install -r requirements.txt
 streamlit
-astrapy
-ragstack-ai==0.3.1
+ragstack-ai==0.6.0
 langchainhub
+openai
 tiktoken
 pypdf
 pandas
