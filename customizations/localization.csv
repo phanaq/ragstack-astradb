@@ -1,8 +1,8 @@
 locale,key,value
 
-en_US,load_text,chuncks loaded into Astra DB
-en_US,load_pdf,chuncks loaded into Astra DB
-en_US,load_csv,chuncks loaded into Astra DB
+en_US,load_text,chunks loaded into Astra DB
+en_US,load_pdf,chunks loaded into Astra DB
+en_US,load_csv,chunks loaded into Astra DB
 en_US,load_embedding,Getting the OpenAI embedding...
 en_US,load_vectorstore,Getting the Vector Store from Astra DB...
 en_US,load_message_history,Getting the Message History from Astra DB...
@@ -38,9 +38,9 @@ en_US,sources_used,The following context was retrieved from the Vector Database:
 en_US,no_chat_history,No Chat History was used as this option is disabled.
 en_US,chat_history_used,Chat History messages used to construct this response
 
-nl_NL,load_text,chuncks geladen in Astra DB
-nl_NL,load_pdf,chuncks geladen in Astra DB
-nl_NL,load_csv,chuncks geladen in Astra DB
+nl_NL,load_text,chunks geladen in Astra DB
+nl_NL,load_pdf,chunks geladen in Astra DB
+nl_NL,load_csv,chunks geladen in Astra DB
 nl_NL,load_embedding,Verkrijgen van de OpenAI embedding...
 nl_NL,load_vectorstore,Verkrijgen van de Vector opslag uit Astra DB...
 nl_NL,load_message_history,Verkrijgen van Message History...
